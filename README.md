@@ -3,6 +3,8 @@ Test Send SMS Location With Twilio
 
 https://docs.microsoft.com/en-us/learn/modules/send-location-over-sms-using-azure-functions-twilio/
 
+Finish Unit 7
+
 Don't forget to add local.settings.json to ImHere.Functions
 
 {
